@@ -55,4 +55,5 @@ export const device_match_password: Record<string, DeviceInfo> = {
   "rk3588SDvision2": {"password": "temppwd", "dealer": "SDvision2", "desc": "SDvision2"},
 
   "ZupZDs": {"password": "cQuv4J", "dealer": "", "desc": "2025/3/26"},
+  "owfS1r": {"password": "va40rE", "dealer": "", "desc": "2025/3/26冰淇淋"},
 } 
