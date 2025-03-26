@@ -56,4 +56,7 @@ export const device_match_password: Record<string, DeviceInfo> = {
 
   "ZupZDs": {"password": "cQuv4J", "dealer": "", "desc": "2025/3/26"},
   "owfS1r": {"password": "va40rE", "dealer": "", "desc": "2025/3/26冰淇淋"},
+  "eW1zDe": {"password": "RmWBu7", "dealer": "", "desc": "2025/3/26冰淇淋"},
+  "wKBcXa": {"password": "TkKx9F", "dealer": "", "desc": "2025/3/26冰淇淋"},
+
 } 
